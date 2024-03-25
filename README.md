@@ -7,4 +7,4 @@ Curso sobre a instalação e primeiros passas com o Prometheus e Grafana
 
 # Status do curso
 
-Em andamento
+Concluido
